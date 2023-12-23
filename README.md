@@ -3,7 +3,9 @@ We develop a dashboard using Power BI on Road Accidents data. The dashboard is c
 
 Below the methodolical framework followed in developing the dahboard.
 
-![alt text](https://github.com/KarlRetumban/TA/blob/main/images/methodology.jpg)
+<p align="center">
+    <img src="https://github.com/KarlRetumban/TA/blob/main/images/methodology.jpg" style="width: 850px; height: auto;">
+</p>
 
 
 #### The Dashboard
@@ -15,14 +17,16 @@ Below the methodolical framework followed in developing the dahboard.
 * Causes of Fatality and Serious Injury Accidents
 
 
-### Description of the Use Case
-We analyze the Renttherunway Clothing Fit data. The dataset contains information about rented attires for certain occassions. It also includes the ratings given by the renters. The user feedback or user review is also included in the data as well as information about the user and the attire.
+### Analysis of Road Accidents
 
-We conduct exploratory data analysis providing descriptive statistics and data visualizatiuon so we can have a good idea of the data and identify patterns and relationships among the variables.
+<p align="center">
+    <img src="https://github.com/KarlRetumban/TA/blob/main/images/raapbi_overview.jpg" style="width: 850px; height: auto;">
+</p>
 
-We will apply Sentiment Analysis to the clothing fit review data and determine the customer sentiments regarding the rented attire. We can also determine the level of satisfaction of customers, whether it is positive, negative or neutral out of their feedback reviews. We will also determine the consistensy of sentiments with respect to the ratuings given and check if the two customer feedback align.
+❏ Over the 2 year period, there are 25,484 total road accidents in Las vegas, with ~12,600 road accidents per year.
 
-We then build a Recommender System that will suggest the next most likely items or attire category the customer will avail in the future using the users historical preference.
+❏ The death rate is 5.7%, resulting to 563 deaths over the 2 year period, and 9,799 serious injuries.
 
+❏ The most common type of road accidents are Collision type accounting to ~79% of the accidents, occurring mostly in daytime on the road.
 
-![alt text](https://github.com/KarlRetumban/SampMG_SA_RS/blob/main/images/JSON.PNG)
+❏ The 50,60 and 100km/hr Speed Zone has the highest number of road accidents.
