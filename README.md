@@ -1,4 +1,4 @@
-# Analysis Dashboard of Road Accidents using Power BI
+# Road Accidents Analysis Dashboard using Power BI
 We develop a dashboard using Power BI on Road Accidents data. The dashboard is composed of 6 pages containing the analysis of Road Accidents in Las Vegas, Nevada, USA. There are a lot of insights that can be extracted from the dashboard which can guide the road & traffic departments, and other policy makers in minimizing road accidents and in decreasing fatality and serious injury accident rates.
 
 Below the methodolical framework followed in developing the dahboard.
