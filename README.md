@@ -1,9 +1,19 @@
-# PowerBI Dashboard using Traffic Accident Data
-#### We apply the following techniques in analyzing the Clothing Fit data.
-* Descriptive Analysis
-* Data Visualization
-* Sentiment Analysis
-* Recommeder System
+# Analysis Dashboard of Road Accidents using Power BI
+We develop a dashboard using Power BI on Road Accidents data. The dashboard is composed of 6 pages containing the analysis of Road Accidents in Las Vegas, Nevada, USA. There are a lot of insights that can be extracted from the dashboard which can guide the road & traffic departments, and other policy makers in minimizing road accidents and in decreasing fatality and serious injury accident rates.
+
+Below the methodolical framework followed in developing the dahboard.
+
+![alt text](https://github.com/KarlRetumban/TA/blob/main/images/methodology.PNG)
+
+
+#### The Dashboard
+* Analysis of Road Accidents
+* Analysis of Fatal Accidents
+* Analysis of Serious Injusry Accidents
+* Exploratory Charts
+* Road Accident Information
+* Causes of Fatality and Serious Injury Accidents
+
 
 ### Description of the Use Case
 We analyze the Renttherunway Clothing Fit data. The dataset contains information about rented attires for certain occassions. It also includes the ratings given by the renters. The user feedback or user review is also included in the data as well as information about the user and the attire.
