@@ -9,7 +9,7 @@ Below the methodological framework followed in developing the dahboard.
 
 
 #### The Dashboard
-* Analysis of Road Accidents
+* Analysis of Traffic Accidents
 * Analysis of Fatal Accidents
 * Analysis of Serious Injusry Accidents
 * Exploratory Analysis
@@ -17,7 +17,7 @@ Below the methodological framework followed in developing the dahboard.
 * Causes of Fatality and Serious Injury Accidents
 
 
-### Analysis of Road Accidents
+### Analysis of Traffic Accidents
 This dashboard section provides a comprehensive overview on the analysis of road accidents data. It shows a map of the location of the road accidents, accident related figures like number of deaths, serious injury, road accident death rate, and other variable like accident type and roasd type.
 
 <p align="center">
@@ -87,12 +87,20 @@ The Road Accident Information dashboard contains the specific details about each
 _____________________________
 
 ### Causes of Fatality and Serious Injury Accidents
-This dashboard section shows the likelihood of a road accident occurring and identifies causes of fatal and serious injury accidents. Users can explore the model's outcomes, gaining insights into the factors that significantly contribute to the probability of accidents and their severity, thus informing targeted safety measures. It also shows segments groups most prone to accidents based on the analyzed data. It identifies patterns and commonalities among different subsets of road accidents. Users can leverage these insights in order to derive and create safety measures for specific high-risk groups, enhancing road safety strategies and mitigating potential hazards.
+This dashboard section shows the likelihood of a road accident occurring and identifies causes of fatal and serious injury accidents. Users can explore the model's outcomes, gaining insights into the factors that significantly contribute to the probability of accidents and their severity, thus informing targeted safety measures. 
 
 <p align="center">
     <img src="https://github.com/KarlRetumban/TA/blob/main/images/raapbi_cause.jpg" style="width: 850px; height: auto;">
 </p>
 
+
+❏ The Key Influencer chart shows the drivers for road fatality accidents with more than 90 Speed Zone and Dark No Street Lights as the topmost.
+
+❏ The factors causing road accidents with serious injuries is also part of the dashboard.
+
+
 <p align="center">
     <img src="https://github.com/KarlRetumban/TA/blob/main/images/raapbi_segments.jpg" style="width: 850px; height: auto;">
 </p>
+
+❏ This sections shows segments groups most prone to accidents based on the analyzed data. It identifies patterns and commonalities among different subsets of road accidents. The dashboard users can leverage these insights in order to derive and create safety measures for specific high-risk groups, enhancing road safety strategies and mitigating potential hazards.
