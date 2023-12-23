@@ -3,7 +3,7 @@ We develop a dashboard using Power BI on Road Accidents data. The dashboard is c
 
 Below the methodolical framework followed in developing the dahboard.
 
-![alt text](https://github.com/KarlRetumban/TA/blob/main/images/methodology.PNG)
+![alt text](https://github.com/KarlRetumban/TA/blob/main/images/methodology.jpg)
 
 
 #### The Dashboard
